@@ -1,0 +1,15 @@
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.csproj.AssemblyReference.cache
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.AssemblyInfoInputs.cache
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.AssemblyInfo.cs
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.csproj.CoreCompileInputs.cache
+C:\Users\nsnco\OneDrive\Desktop\sphinx\bin\Debug\net6.0\sphinx.exe
+C:\Users\nsnco\OneDrive\Desktop\sphinx\bin\Debug\net6.0\sphinx.deps.json
+C:\Users\nsnco\OneDrive\Desktop\sphinx\bin\Debug\net6.0\sphinx.runtimeconfig.json
+C:\Users\nsnco\OneDrive\Desktop\sphinx\bin\Debug\net6.0\sphinx.dll
+C:\Users\nsnco\OneDrive\Desktop\sphinx\bin\Debug\net6.0\sphinx.pdb
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.dll
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\refint\sphinx.dll
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.pdb
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\sphinx.genruntimeconfig.cache
+C:\Users\nsnco\OneDrive\Desktop\sphinx\obj\Debug\net6.0\ref\sphinx.dll
